@@ -1,6 +1,6 @@
 # MAVI II - Ejercicios Unidad 2
 
-Ejercicios de la Unidad 2 - Dinámica de Cuerpos Puntuales
+Ejercicios de la Unidad 2 - Dinámica de Cuerpos Puntuales (Box2D)
 
 ## Requisitos
 
