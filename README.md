@@ -10,4 +10,4 @@ Ejercicios Unidad 2 - Dinámica de Cuerpos Puntuales (Introducción a Box2D)
 ## Instrucciones
 
 1. Por cada ejercicio debe abrirse el archivo con extensión ```.sln```, se encuentra en ```Box2dFirstApp\Build\```
-2. Una vez dentro del IDE seleccionar a ```Depurar->Iniciar sin depurar``` ó presionar las teclas ```CTRL+F5``` para iniciar la aplicación
+2. Una vez dentro del IDE seleccionar ```Depurar->Iniciar sin depurar``` ó presionar las teclas ```CTRL+F5``` para iniciar la aplicación
